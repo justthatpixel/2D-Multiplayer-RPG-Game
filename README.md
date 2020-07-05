@@ -1,6 +1,14 @@
 # RPG-Game
 
 This a  2D RPG game, 
-the  login screen uses a length check to see if the entry is valid or not. 
+ 
+ Consisting of 5 Levels. Where you fight enemeies anc collect coins.
+ 
+ The login screen has a simple validation form. Which checks for illegal charachters and the length.
+
+Player charachter, enemy charachters have Health system script.  
+
+Player can pick up objects around the map and store it in the inventory.
+ 
 
 
