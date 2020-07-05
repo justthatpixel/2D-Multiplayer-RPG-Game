@@ -2,7 +2,7 @@
 
 This a  2D RPG game, 
  
- Consisting of 5 Levels. Where you fight enemeies anc collect coins.
+ Consisting of 5 Levels. Where you fight enemeies and collect coins.
  
  The login screen has a simple validation form. Which checks for illegal charachters and the length.
 
