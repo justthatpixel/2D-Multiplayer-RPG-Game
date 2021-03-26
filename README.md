@@ -41,7 +41,7 @@ https://github.com/vis2k/Mirror
 <h2> Game Features: </h2>
 <ul>
   <li>Enemy AI:
-Uses A* pathfinding algorithm/li>
+Uses A* pathfinding algorithm</li>
   <li>Healthystem for Charachter</li>
   <li>Healthbar for enemies and Player</li>
  <li>Login System for Player </li>
