@@ -1,10 +1,10 @@
 <h1> Multiplayer RPG game</h1>
   
-<p>This is a Multiplayer RPG game I developed in Unity using c#.</p>
+<p>This is a Multiplayer RPG game I developed in Unity using c#. </p>
 
 <p>It consists of 5 levels to explore, collect items and fight enemies.</p>
 
-<p>I used the netowrking asset 'Mirror' to enable networking functionality within my game </p>
+<p>I used the networking asset 'Mirror' to enable networking functionality within my game </p>
 https://github.com/vis2k/Mirror
 
 <H2>Screenshots: </h2>
