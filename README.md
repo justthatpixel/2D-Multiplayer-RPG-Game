@@ -7,6 +7,21 @@
 <p>I used the networking asset 'Mirror' to enable networking functionality within my game </p>
 https://github.com/vis2k/Mirror
 
+<h2> Game Features: </h2>
+<ul>
+  <li>Enemy AI:
+Uses A* pathfinding algorithm</li>
+  <li>Healthystem for Charachter</li>
+  <li>Encrypted end to end server hosting/multiplayer service</li>
+  <li>Healthbar for enemies and Player</li>
+ <li>Login System for Player </li>
+  <li>Menu system  </li>
+   <li>Option menu  </li>
+ <li>Volume Slider</li>
+</ul>
+
+
+
 <H2>Screenshots: </h2>
 
 <h3>Game interface:</h3>
@@ -40,18 +55,6 @@ https://github.com/vis2k/Mirror
 
 
 
-
-<h2> Game Features: </h2>
-<ul>
-  <li>Enemy AI:
-Uses A* pathfinding algorithm</li>
-  <li>Healthystem for Charachter</li>
-  <li>Healthbar for enemies and Player</li>
- <li>Login System for Player </li>
-  <li>Menu system  </li>
-   <li>Option menu  </li>
- <li>Volume </li>
-</ul>
 
 
 
