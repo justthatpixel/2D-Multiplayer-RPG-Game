@@ -1,6 +1,6 @@
 <h1> Multiplayer RPG game</h1>
   
-<p>This is a Multiplayer RPG game I developed in Unity using c#. </p>
+<p>This is a Multiplayer RPG game developed in Unity using c#. </p>
 
 <p>It consists of 5 levels to explore, collect items and fight enemies.</p>
 
@@ -10,8 +10,11 @@ https://github.com/vis2k/Mirror
 <H2>Screenshots: </h2>
 
 <h3>Game interface:</h3>
+<h3> HUD 1: </h3> 
 
 ![image](https://user-images.githubusercontent.com/64263647/112634212-35f9bb80-8e32-11eb-8f12-fba1291d72e2.png)
+<h3> HUD 2: </h3> 
+
 ![image](https://user-images.githubusercontent.com/64263647/112634202-33976180-8e32-11eb-9baa-1f6420c94218.png)
 
 
